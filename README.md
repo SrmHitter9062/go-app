@@ -1,1 +1,1 @@
-# go-app start
+# go-app :)
