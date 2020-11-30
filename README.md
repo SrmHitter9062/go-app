@@ -1,3 +1,3 @@
 # go-app
 
-change after v1.0 build
+rc1 release 1.0.1.rc.1
